@@ -1,0 +1,480 @@
+{
+    "original_id": [
+        "n02321529",
+        "n03840681",
+        "n01682714",
+        "n03666591",
+        "n02109525",
+        "n02111277",
+        "n02655020",
+        "n02837789",
+        "n02091467",
+        "n02480495",
+        "n07873807",
+        "n02408429",
+        "n02437312",
+        "n02892767",
+        "n03424325",
+        "n07718472",
+        "n01744401",
+        "n01484850",
+        "n01950731",
+        "n04418357",
+        "n02930766",
+        "n03950228",
+        "n02892201",
+        "n02977058",
+        "n04141975",
+        "n01860187",
+        "n02120505",
+        "n01924916",
+        "n02869837",
+        "n12057211",
+        "n02457408",
+        "n02776631",
+        "n02002556",
+        "n01773797",
+        "n03877472",
+        "n03673027",
+        "n01914609",
+        "n03967562",
+        "n04548362",
+        "n02951585",
+        "n01728920",
+        "n02504458",
+        "n04275548",
+        "n03832673",
+        "n03535780",
+        "n02500267",
+        "n03095699",
+        "n02114548",
+        "n03676483",
+        "n02749479",
+        "n03888257",
+        "n13052670",
+        "n02788148",
+        "n01614925",
+        "n03874293",
+        "n02056570",
+        "n03841143",
+        "n03271574",
+        "n01797886",
+        "n07836838",
+        "n03223299",
+        "n03888605",
+        "n02814860",
+        "n01755581",
+        "n03355925",
+        "n03743016",
+        "n03854065",
+        "n02088238",
+        "n02279972",
+        "n03485794",
+        "n03534580",
+        "n02219486",
+        "n01855032",
+        "n01665541",
+        "n09421951",
+        "n02415577",
+        "n02037110",
+        "n04328186",
+        "n01798484",
+        "n02909870",
+        "n02028035",
+        "n02489166",
+        "n02115913",
+        "n04417672",
+        "n02119022",
+        "n03131574",
+        "n03445924",
+        "n04008634",
+        "n02917067",
+        "n01532829",
+        "n02102318",
+        "n03595614",
+        "n02114712",
+        "n03594945",
+        "n02704792",
+        "n03594734",
+        "n06874185",
+        "n01630670",
+        "n02226429",
+        "n03983396"
+    ],
+    "related_id": [
+        [
+            "holothurian"
+        ],
+        [
+            "sweet potato"
+        ],
+        [
+            "anole",
+            "American chameleon",
+            "Anolis carolinensis"
+        ],
+        [
+            "ignitor",
+            "light",
+            "igniter"
+        ],
+        [
+            "Saint Bernard",
+            "St Bernard"
+        ],
+        [
+            "Newfoundland",
+            "Newfoundland dog"
+        ],
+        [
+            "blowfish",
+            "globefish",
+            "pufferfish"
+        ],
+        [
+            "two piece"
+        ],
+        [
+            "Norwegian elkhound",
+            "elkhound"
+        ],
+        [
+            "orang",
+            "orangutang",
+            "Pongo pygmaeus"
+        ],
+        [
+            "pizza pie"
+        ],
+        [
+            "water ox",
+            "Bubalus bubalis",
+            "Asiatic buffalo"
+        ],
+        [
+            "Arabian camel",
+            "Camelus dromedarius",
+            "dromedary"
+        ],
+        [
+            "bandeau",
+            "bra"
+        ],
+        [
+            "gas helmet",
+            "respirator"
+        ],
+        [
+            "cuke"
+        ],
+        [
+            "rock snake",
+            "Python sebae"
+        ],
+        [
+            "white shark",
+            "Carcharodon carcharias",
+            "man eating shark",
+            "man eater"
+        ],
+        [
+            "nudibranch"
+        ],
+        [
+            "theatre curtain"
+        ],
+        [
+            "taxicab",
+            "hack",
+            "taxi"
+        ],
+        [
+            "ewer"
+        ],
+        [
+            "memorial tablet",
+            "plaque"
+        ],
+        [
+            "automated teller machine",
+            "automatic teller machine",
+            "automated teller",
+            "automatic teller",
+            "cash dispenser",
+            "ATM"
+        ],
+        [
+            "weighing machine"
+        ],
+        [
+            "Cygnus atratus"
+        ],
+        [
+            "gray fox",
+            "Urocyon cinereoargenteus"
+        ],
+        [
+            "platyhelminth"
+        ],
+        [
+            "poke bonnet"
+        ],
+        [
+            "Cypripedium parviflorum",
+            "Cypripedium calceolus",
+            "yellow lady slipper"
+        ],
+        [
+            "ai",
+            "Bradypus tridactylus"
+        ],
+        [
+            "bakehouse",
+            "bakeshop"
+        ],
+        [
+            "Ciconia ciconia"
+        ],
+        [
+            "Aranea diademata"
+        ],
+        [
+            "jammies",
+            "pyjama",
+            "pj's"
+        ],
+        [
+            "ocean liner"
+        ],
+        [
+            "anemone"
+        ],
+        [
+            "plough"
+        ],
+        [
+            "notecase",
+            "pocketbook",
+            "billfold"
+        ],
+        [
+            "tin opener"
+        ],
+        [
+            "ring necked snake",
+            "ring snake"
+        ],
+        [
+            "Loxodonta africana",
+            "African elephant"
+        ],
+        [
+            "spider's web"
+        ],
+        [
+            "notebook computer"
+        ],
+        [
+            "high bar"
+        ],
+        [
+            "Indri brevicaudatus",
+            "Indri indri",
+            "indris"
+        ],
+        [
+            "containership",
+            "container vessel"
+        ],
+        [
+            "Arctic wolf",
+            "Canis lupus tundrarum"
+        ],
+        [
+            "lip rouge"
+        ],
+        [
+            "assault gun"
+        ],
+        [
+            "chute"
+        ],
+        [
+            "Grifola frondosa",
+            "Polyporus frondosus"
+        ],
+        [
+            "handrail",
+            "banister",
+            "balusters",
+            "balustrade"
+        ],
+        [
+            "Haliaeetus leucocephalus",
+            "American eagle"
+        ],
+        [
+            "paddle wheel"
+        ],
+        [
+            "Aptenodytes patagonica"
+        ],
+        [
+            "milometer",
+            "hodometer",
+            "mileometer"
+        ],
+        [
+            "blower"
+        ],
+        [
+            "partridge",
+            "Bonasa umbellus"
+        ],
+        [
+            "chocolate syrup"
+        ],
+        [
+            "welcome mat"
+        ],
+        [
+            "bars"
+        ],
+        [
+            "lighthouse",
+            "pharos",
+            "beacon light"
+        ],
+        [
+            "diamondback rattlesnake",
+            "Crotalus adamanteus"
+        ],
+        [
+            "flagstaff"
+        ],
+        [
+            "megalithic structure"
+        ],
+        [
+            "pipe organ"
+        ],
+        [
+            "basset hound"
+        ],
+        [
+            "milkweed butterfly",
+            "monarch butterfly",
+            "Danaus plexippus"
+        ],
+        [
+            "hankie",
+            "hanky",
+            "hankey"
+        ],
+        [
+            "crinoline"
+        ],
+        [
+            "pismire",
+            "emmet"
+        ],
+        [
+            "Mergus serrator"
+        ],
+        [
+            "leathery turtle",
+            "leatherback",
+            "Dermochelys coriacea"
+        ],
+        [
+            "sand bar"
+        ],
+        [
+            "cimarron",
+            "bighorn sheep",
+            "Rocky Mountain bighorn",
+            "Rocky Mountain sheep",
+            "Ovis canadensis"
+        ],
+        [
+            "oyster catcher"
+        ],
+        [
+            "stop watch"
+        ],
+        [
+            "prairie fowl",
+            "prairie grouse"
+        ],
+        [
+            "pail"
+        ],
+        [
+            "Tringa totanus"
+        ],
+        [
+            "Nasalis larvatus"
+        ],
+        [
+            "Cuon alpinus"
+        ],
+        [
+            "thatched roof"
+        ],
+        [
+            "Vulpes vulpes"
+        ],
+        [
+            "cot"
+        ],
+        [
+            "golf cart"
+        ],
+        [
+            "missile"
+        ],
+        [
+            "bullet"
+        ],
+        [
+            "linnet",
+            "Carpodacus mexicanus"
+        ],
+        [
+            "cocker",
+            "English cocker spaniel"
+        ],
+        [
+            "tee shirt",
+            "T shirt"
+        ],
+        [
+            "maned wolf",
+            "Canis rufus",
+            "Canis niger"
+        ],
+        [
+            "landrover"
+        ],
+        [
+            "amphibious vehicle"
+        ],
+        [
+            "blue jean",
+            "denim"
+        ],
+        [
+            "traffic signal",
+            "stoplight"
+        ],
+        [
+            "Triturus vulgaris"
+        ],
+        [
+            "hopper"
+        ],
+        [
+            "soda bottle"
+        ]
+    ]
+}
