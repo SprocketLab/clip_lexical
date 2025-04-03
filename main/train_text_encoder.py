@@ -244,13 +244,13 @@ def lexical_training(
         dataset_name="imagenet",
         target_file_name="100_hypernym_level_1",
         batch_size=10,
-        number_of_epochs=10,
+        number_of_epochs=7,
         save_name="test",
-        global_sampling=False,
-        custom_regularization=False,
-        custom_lambda=0.1,
+        global_sampling=True,
+        custom_regularization=True,
+        custom_lambda=0.08,
         loss_type="square",
-        loss_amp_const=4,
+        loss_amp_const=3,
 ):
     if training_type.lower() not in ["synonym", "hypernym", "mixed"]:
         print("Invalid training type, please choose 'synonym' or 'hypernym', exiting")
@@ -431,16 +431,6 @@ if __name__ == "__main__":
         combination_sampled=1 if training_type == "hypernym" else 3,
         template_type="null"
     )
-    #
-    # clip_classification.run_classification(
-    #     model_info=model_info,
-    #     dataset_name=dataset_name,
-    #     include_original_name=False,  # False
-    #     target_file_name=target_file_name,
-    #     tuned_model_save_name=tuned_model_name,
-    #     combination_sampled=1 if training_type == "hypernym" else 3,
-    #     template_type="general"
-    # )
 
     end_time = time.time()  # End timer
 
